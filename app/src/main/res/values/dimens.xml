@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="content_padding">20dp</dimen>
+    <dimen name="text_view_drawable_padding">3dp</dimen>
+    <dimen name="content_text">30sp</dimen>
+</resources>

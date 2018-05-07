@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Heathwood Hardware</string>
+	<string name="company_name">Heathwood Hardware</string>
+    <string name="about_us">Small, family-owned company that makes rustic and specialty
+		decorative hardware for doors and windows.</string>
+	<string name="store_address">123 Hartnell CT, Monterey, CA 93920</string>
+    <string name="email_address">info@heathwoodhardware.com</string>
+	<string name="store_phone">831-329-1929</string>
+    <string name="web_site">www.heathwoodhardware.com</string>
+    <string name="store_hours">weekdays: 8AM-6PM\nweekends: 8AM-10PM\n</string>
+</resources>
