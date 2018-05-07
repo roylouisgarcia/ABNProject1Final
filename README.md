@@ -14,7 +14,9 @@ Above is the link to a repository of a project that I submitted as Project 1 of 
 
 ## Changes made to the original submission
 
-1. I reverted to an older version of the Android Emulator to test my projects from hereforth:
+1. I spliced a logo that had the company name within the image, so I can complete the required company information ask from the rubics and reminded by my reviewer
+
+2. I reverted to an older version of the Android Emulator to test my projects from hereforth:
 
 Name: Nexus_5X_API_27
 CPU/ABI: Google Play Intel Atom (x86)
@@ -26,7 +28,7 @@ image.androidVersion.api: 27
 
 ![Screenshot of emulator settings](emulator.jpg)
 
-2. I create dimens.xml to avoid hardcoding values that I may want to update from a convenient resource file, just like values I put in string.xml, colors.xml, etc ...
+3. I create dimens.xml to avoid hardcoding values that I may want to update from a convenient resource file, just like values I put in string.xml, colors.xml, etc ...
 
 ![Screenshot of Android Studio](androidstudtio.jpg)
 
