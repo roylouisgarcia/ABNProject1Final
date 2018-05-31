@@ -34,9 +34,9 @@ image.androidVersion.api: 27
 
 ## Screenshot of the resubmitted project
 
-![Screenshot](resubmittedvertical.png)
-![Screenshot](resubmittedhorizontal.png)
+<img src="resubmittedvertical.png" alt="html presentation" width="400px" />
 
+<img src="resubmittedhorizontal.png" alt="html presentation" width="400px" />
 
 
 
